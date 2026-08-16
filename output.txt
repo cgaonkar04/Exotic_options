@@ -1,0 +1,10 @@
+Grid used for base-case prices: M=400 (space), N=400 (time)
+Params: S0=100.0, K=100.0, T=1.0, r=0.05, sigma=0.2, B=175.0
+
+Instrument                         CN Price    Benchmark    Deviation
+---------------------------------------------------------------------
+American Call                     10.448114    10.450584    -0.002470
+American Put                       6.087455     5.573526     0.513929
+Up-and-Out Call                    9.886839     9.886973    -0.000134
+European Call (CN, check)         10.448114    10.450584    -0.002470
+European Put (CN, check)           5.571056     5.573526    -0.002470
